@@ -1,5 +1,5 @@
-# SEPM-LAB
-# SEPM_lab
+# SEPM
+# SEPM
 > Experiment
 
 # GIT command
